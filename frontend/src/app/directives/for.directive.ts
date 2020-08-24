@@ -7,4 +7,7 @@ export class ForDirective {
 
   constructor() { }
 
+  ngOnInit(): void{
+    
+  }
 }
